@@ -31,7 +31,7 @@ public class OrangeHrmLogin {
 		driver.get("https://opensource-demo.orangehrmlive.com/");
 	}
 	@SuppressWarnings("deprecation")
-	@Test
+	@TestCVETVBH
 	public void testCase() throws InterruptedException
 	{
 		SoftAssert softassert = new SoftAssert();
